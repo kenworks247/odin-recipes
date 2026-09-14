@@ -1,2 +1,2 @@
-# odin-recipes# Odin Recipes
-This project is a simple recipe-sharing site built while leaning HTML, CSS, and Git version control.
+# Odin Recipes
+This project is a simple recipe-sharing site built while learning HTML, CSS, and Git version control.
