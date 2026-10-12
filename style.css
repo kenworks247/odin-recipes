@@ -9,5 +9,13 @@ a{
 }
 
 a:hover{
-    color: indigo
+    color: gold;
+}
+
+img{
+    display: block;
+    max-width: 500px;
+    max-height: 450px;
+    width: auto;
+    margin: 0;
 }
